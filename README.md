@@ -1,4 +1,4 @@
-# Laravel 12 livewire
+# user management and financial tracking system - A Laravel Livewire Starter Kit
 
 A comprehensive user management and financial tracking system built with Laravel 12 and Livewire.
 
